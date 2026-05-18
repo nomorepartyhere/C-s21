@@ -1,1 +1,1 @@
-implementation of a bash function CAT in C-language
+implementation of a bash function "cat" in C-language
